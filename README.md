@@ -9,10 +9,3 @@ Given sample news documents with boundaries between articles marked. Perform the
 <br />
 <br />
 
-## Rank : 4 ( Private leaderboard )
-
-
-<br />
-<br />
-
-### LINK : https://www.hackerearth.com/challenge/hiring/ai-problem-statement-1/leaderboard/
